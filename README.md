@@ -1,9 +1,8 @@
 # SimpleCalculator
 This is a simple calculator that currently supports operators like "+-*/()".  
-A simple graphic user interface is available, also.
+A simple graphic user interface is available, also.  
 
-### Tags
-Java, Stack, Reverse Polish Notation, GUI.
+Tags:Java, Stack, Reverse Polish Notation, GUI.
 
 ## Test Environment
 Java SE build 1.8.0_181-b13
